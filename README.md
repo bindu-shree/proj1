@@ -1,1 +1,1 @@
-# proj1
+# COLLECT-TREASURE
